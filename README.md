@@ -1,3 +1,3 @@
-# Projects
+# Web App
 
-A collection of all my perosnal work that I either collaborated on or developed myself
+My first web application built using Ruby
